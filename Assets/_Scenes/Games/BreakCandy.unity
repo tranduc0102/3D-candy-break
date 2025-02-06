@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 38359427}
   - component: {fileID: 38359429}
   - component: {fileID: 38359428}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -209,7 +209,7 @@ GameObject:
   - component: {fileID: 39356133}
   - component: {fileID: 39356132}
   - component: {fileID: 39356131}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,7 +329,7 @@ GameObject:
   - component: {fileID: 65026365}
   - component: {fileID: 65026367}
   - component: {fileID: 65026366}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -405,7 +405,7 @@ GameObject:
   - component: {fileID: 65789205}
   - component: {fileID: 65789204}
   - component: {fileID: 65789203}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 80738110}
   - component: {fileID: 80738109}
   - component: {fileID: 80738108}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -604,7 +604,7 @@ GameObject:
   - component: {fileID: 87758661}
   - component: {fileID: 87758663}
   - component: {fileID: 87758662}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -679,7 +679,7 @@ GameObject:
   - component: {fileID: 94234710}
   - component: {fileID: 94234712}
   - component: {fileID: 94234711}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -754,7 +754,7 @@ GameObject:
   - component: {fileID: 102644943}
   - component: {fileID: 102644945}
   - component: {fileID: 102644944}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Content
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -855,7 +855,7 @@ GameObject:
   - component: {fileID: 102762732}
   - component: {fileID: 102762731}
   - component: {fileID: 102762730}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -975,7 +975,7 @@ GameObject:
   - component: {fileID: 107218708}
   - component: {fileID: 107218710}
   - component: {fileID: 107218709}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1051,7 +1051,7 @@ GameObject:
   - component: {fileID: 139859188}
   - component: {fileID: 139859187}
   - component: {fileID: 139859186}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1149,7 +1149,7 @@ GameObject:
   m_Component:
   - component: {fileID: 141796300}
   - component: {fileID: 141796301}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_3
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -1208,7 +1208,7 @@ GameObject:
   - component: {fileID: 168857754}
   - component: {fileID: 168857756}
   - component: {fileID: 168857755}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1284,7 +1284,7 @@ GameObject:
   - component: {fileID: 203205906}
   - component: {fileID: 203205905}
   - component: {fileID: 203205904}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1405,7 +1405,7 @@ GameObject:
   - component: {fileID: 211533255}
   - component: {fileID: 211533254}
   - component: {fileID: 211533253}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1525,7 +1525,7 @@ GameObject:
   - component: {fileID: 242126200}
   - component: {fileID: 242126202}
   - component: {fileID: 242126201}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1601,7 +1601,7 @@ GameObject:
   - component: {fileID: 243051180}
   - component: {fileID: 243051179}
   - component: {fileID: 243051178}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1700,7 +1700,7 @@ GameObject:
   - component: {fileID: 252621768}
   - component: {fileID: 252621770}
   - component: {fileID: 252621769}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1774,7 +1774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 253215002}
   - component: {fileID: 253215003}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_14
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -1832,7 +1832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 254939834}
   - component: {fileID: 254939835}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_8
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -1891,7 +1891,7 @@ GameObject:
   - component: {fileID: 264464841}
   - component: {fileID: 264464843}
   - component: {fileID: 264464842}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1965,7 +1965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 278643069}
   - component: {fileID: 278643070}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_7
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -2025,7 +2025,7 @@ GameObject:
   - component: {fileID: 283475674}
   - component: {fileID: 283475673}
   - component: {fileID: 283475672}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2145,7 +2145,7 @@ GameObject:
   - component: {fileID: 285258404}
   - component: {fileID: 285258406}
   - component: {fileID: 285258405}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2220,7 +2220,7 @@ GameObject:
   - component: {fileID: 288085837}
   - component: {fileID: 288085839}
   - component: {fileID: 288085838}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2295,7 +2295,7 @@ GameObject:
   - component: {fileID: 298033566}
   - component: {fileID: 298033568}
   - component: {fileID: 298033567}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2371,7 +2371,7 @@ GameObject:
   - component: {fileID: 347535584}
   - component: {fileID: 347535583}
   - component: {fileID: 347535582}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2491,7 +2491,7 @@ GameObject:
   - component: {fileID: 358670979}
   - component: {fileID: 358670981}
   - component: {fileID: 358670980}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2567,7 +2567,7 @@ GameObject:
   - component: {fileID: 369769560}
   - component: {fileID: 369769559}
   - component: {fileID: 369769558}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2688,7 +2688,7 @@ GameObject:
   - component: {fileID: 388569398}
   - component: {fileID: 388569397}
   - component: {fileID: 388569396}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2808,7 +2808,7 @@ GameObject:
   - component: {fileID: 402820500}
   - component: {fileID: 402820502}
   - component: {fileID: 402820501}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2884,7 +2884,7 @@ GameObject:
   - component: {fileID: 409100559}
   - component: {fileID: 409100558}
   - component: {fileID: 409100557}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3004,7 +3004,7 @@ GameObject:
   - component: {fileID: 413709434}
   - component: {fileID: 413709436}
   - component: {fileID: 413709435}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3079,7 +3079,7 @@ GameObject:
   - component: {fileID: 427896861}
   - component: {fileID: 427896863}
   - component: {fileID: 427896862}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3154,7 +3154,7 @@ GameObject:
   - component: {fileID: 445645261}
   - component: {fileID: 445645263}
   - component: {fileID: 445645262}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3229,7 +3229,7 @@ GameObject:
   - component: {fileID: 467503599}
   - component: {fileID: 467503601}
   - component: {fileID: 467503600}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3304,7 +3304,7 @@ GameObject:
   - component: {fileID: 475487143}
   - component: {fileID: 475487145}
   - component: {fileID: 475487144}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3380,7 +3380,7 @@ GameObject:
   - component: {fileID: 475550759}
   - component: {fileID: 475550758}
   - component: {fileID: 475550757}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3500,7 +3500,7 @@ GameObject:
   - component: {fileID: 478760244}
   - component: {fileID: 478760246}
   - component: {fileID: 478760245}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3576,7 +3576,7 @@ GameObject:
   - component: {fileID: 484465003}
   - component: {fileID: 484465002}
   - component: {fileID: 484465001}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3697,7 +3697,7 @@ GameObject:
   - component: {fileID: 485572086}
   - component: {fileID: 485572085}
   - component: {fileID: 485572084}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3796,7 +3796,7 @@ GameObject:
   - component: {fileID: 492877719}
   - component: {fileID: 492877721}
   - component: {fileID: 492877720}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3871,7 +3871,7 @@ GameObject:
   - component: {fileID: 529479410}
   - component: {fileID: 529479412}
   - component: {fileID: 529479411}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3945,7 +3945,7 @@ GameObject:
   m_Component:
   - component: {fileID: 546105826}
   - component: {fileID: 546105827}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_19
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -4005,7 +4005,7 @@ GameObject:
   - component: {fileID: 556096553}
   - component: {fileID: 556096552}
   - component: {fileID: 556096551}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4156,7 +4156,7 @@ GameObject:
   - component: {fileID: 586699630}
   - component: {fileID: 586699632}
   - component: {fileID: 586699631}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4231,7 +4231,7 @@ GameObject:
   - component: {fileID: 589065606}
   - component: {fileID: 589065608}
   - component: {fileID: 589065607}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4307,7 +4307,7 @@ GameObject:
   - component: {fileID: 600290579}
   - component: {fileID: 600290578}
   - component: {fileID: 600290577}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4407,7 +4407,7 @@ GameObject:
   - component: {fileID: 601833431}
   - component: {fileID: 601833430}
   - component: {fileID: 601833429}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4527,7 +4527,7 @@ GameObject:
   - component: {fileID: 613227224}
   - component: {fileID: 613227226}
   - component: {fileID: 613227225}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4671,7 +4671,7 @@ GameObject:
   - component: {fileID: 642281035}
   - component: {fileID: 642281034}
   - component: {fileID: 642281033}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4771,7 +4771,7 @@ GameObject:
   - component: {fileID: 654192917}
   - component: {fileID: 654192916}
   - component: {fileID: 654192915}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4807,12 +4807,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -4835,8 +4835,8 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 25
+  m_VertexColorAlwaysGammaSpace: 1
+  m_AdditionalShaderChannelsFlag: -1
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: -10
@@ -4872,7 +4872,7 @@ GameObject:
   m_Component:
   - component: {fileID: 658456441}
   - component: {fileID: 658456442}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_2
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -4932,7 +4932,7 @@ GameObject:
   - component: {fileID: 665788005}
   - component: {fileID: 665788004}
   - component: {fileID: 665788003}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5032,7 +5032,7 @@ GameObject:
   - component: {fileID: 696693120}
   - component: {fileID: 696693119}
   - component: {fileID: 696693118}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5153,7 +5153,7 @@ GameObject:
   - component: {fileID: 734508485}
   - component: {fileID: 734508484}
   - component: {fileID: 734508483}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5251,7 +5251,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737258657}
   - component: {fileID: 737258658}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_13
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -5311,7 +5311,7 @@ GameObject:
   - component: {fileID: 741988789}
   - component: {fileID: 741988788}
   - component: {fileID: 741988787}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Scroll View
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5416,7 +5416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 768242846}
   - component: {fileID: 768242847}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_12
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -5610,7 +5610,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -5642,21 +5642,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &808584480
-MonoBehaviour:
+--- !u!81 &808584480
+AudioListener:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808584476}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
 --- !u!1 &852240838
 GameObject:
   m_ObjectHideFlags: 0
@@ -5667,7 +5660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 852240839}
   - component: {fileID: 852240840}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_6
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -5725,7 +5718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 935763786}
   - component: {fileID: 935763787}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_4
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -5784,7 +5777,7 @@ GameObject:
   - component: {fileID: 980264762}
   - component: {fileID: 980264764}
   - component: {fileID: 980264763}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5859,7 +5852,7 @@ GameObject:
   - component: {fileID: 983063320}
   - component: {fileID: 983063322}
   - component: {fileID: 983063321}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5935,7 +5928,7 @@ GameObject:
   - component: {fileID: 997046014}
   - component: {fileID: 997046013}
   - component: {fileID: 997046012}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6035,7 +6028,7 @@ GameObject:
   - component: {fileID: 999394266}
   - component: {fileID: 999394265}
   - component: {fileID: 999394264}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6134,7 +6127,7 @@ GameObject:
   - component: {fileID: 1043636401}
   - component: {fileID: 1043636403}
   - component: {fileID: 1043636402}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6210,7 +6203,7 @@ GameObject:
   - component: {fileID: 1062087980}
   - component: {fileID: 1062087979}
   - component: {fileID: 1062087978}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6308,7 +6301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1091114436}
   - component: {fileID: 1091114437}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_20
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -6368,7 +6361,7 @@ GameObject:
   - component: {fileID: 1093015490}
   - component: {fileID: 1093015489}
   - component: {fileID: 1093015488}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6468,7 +6461,7 @@ GameObject:
   - component: {fileID: 1096759723}
   - component: {fileID: 1096759722}
   - component: {fileID: 1096759721}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6568,7 +6561,7 @@ GameObject:
   - component: {fileID: 1140494273}
   - component: {fileID: 1140494272}
   - component: {fileID: 1140494271}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6688,7 +6681,7 @@ GameObject:
   - component: {fileID: 1161968644}
   - component: {fileID: 1161968646}
   - component: {fileID: 1161968645}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6764,7 +6757,7 @@ GameObject:
   - component: {fileID: 1199348897}
   - component: {fileID: 1199348896}
   - component: {fileID: 1199348895}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Viewport
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6854,7 +6847,7 @@ GameObject:
   - component: {fileID: 1202073220}
   - component: {fileID: 1202073219}
   - component: {fileID: 1202073218}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6954,7 +6947,7 @@ GameObject:
   - component: {fileID: 1210174991}
   - component: {fileID: 1210174990}
   - component: {fileID: 1210174989}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7053,7 +7046,7 @@ GameObject:
   - component: {fileID: 1217515373}
   - component: {fileID: 1217515375}
   - component: {fileID: 1217515374}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7128,7 +7121,7 @@ GameObject:
   - component: {fileID: 1228402982}
   - component: {fileID: 1228402984}
   - component: {fileID: 1228402983}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7203,7 +7196,7 @@ GameObject:
   - component: {fileID: 1229024899}
   - component: {fileID: 1229024901}
   - component: {fileID: 1229024900}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7278,7 +7271,7 @@ GameObject:
   - component: {fileID: 1283320030}
   - component: {fileID: 1283320032}
   - component: {fileID: 1283320031}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7353,7 +7346,7 @@ GameObject:
   - component: {fileID: 1306129810}
   - component: {fileID: 1306129812}
   - component: {fileID: 1306129811}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7427,7 +7420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1317939423}
   - component: {fileID: 1317939424}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_11
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -7487,7 +7480,7 @@ GameObject:
   - component: {fileID: 1350503959}
   - component: {fileID: 1350503958}
   - component: {fileID: 1350503957}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7607,7 +7600,7 @@ GameObject:
   - component: {fileID: 1356927946}
   - component: {fileID: 1356927948}
   - component: {fileID: 1356927947}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7683,7 +7676,7 @@ GameObject:
   - component: {fileID: 1361554264}
   - component: {fileID: 1361554263}
   - component: {fileID: 1361554262}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7781,7 +7774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1380764086}
   - component: {fileID: 1380764087}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_10
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -7840,7 +7833,7 @@ GameObject:
   - component: {fileID: 1395071982}
   - component: {fileID: 1395071984}
   - component: {fileID: 1395071983}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7914,7 +7907,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1396603905}
   - component: {fileID: 1396603906}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_15
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -7974,7 +7967,7 @@ GameObject:
   - component: {fileID: 1459794375}
   - component: {fileID: 1459794374}
   - component: {fileID: 1459794373}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8072,7 +8065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1505454454}
   - component: {fileID: 1505454455}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_17
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -8131,7 +8124,7 @@ GameObject:
   - component: {fileID: 1516786381}
   - component: {fileID: 1516786383}
   - component: {fileID: 1516786382}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8207,7 +8200,7 @@ GameObject:
   - component: {fileID: 1529788673}
   - component: {fileID: 1529788672}
   - component: {fileID: 1529788671}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8305,7 +8298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1539240611}
   - component: {fileID: 1539240612}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_9
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -8365,7 +8358,7 @@ GameObject:
   - component: {fileID: 1558754615}
   - component: {fileID: 1558754614}
   - component: {fileID: 1558754613}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8486,7 +8479,7 @@ GameObject:
   - component: {fileID: 1561604258}
   - component: {fileID: 1561604257}
   - component: {fileID: 1561604256}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8606,7 +8599,7 @@ GameObject:
   - component: {fileID: 1573813666}
   - component: {fileID: 1573813668}
   - component: {fileID: 1573813667}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8682,7 +8675,7 @@ GameObject:
   - component: {fileID: 1588505066}
   - component: {fileID: 1588505065}
   - component: {fileID: 1588505064}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8801,7 +8794,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1625472032}
   - component: {fileID: 1625472033}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_1
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -8860,7 +8853,7 @@ GameObject:
   - component: {fileID: 1641657820}
   - component: {fileID: 1641657822}
   - component: {fileID: 1641657821}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8935,7 +8928,7 @@ GameObject:
   - component: {fileID: 1645381402}
   - component: {fileID: 1645381404}
   - component: {fileID: 1645381403}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9009,7 +9002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1650696468}
   - component: {fileID: 1650696469}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_18
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -9125,7 +9118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1666323454}
   - component: {fileID: 1666323455}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_5
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -9184,7 +9177,7 @@ GameObject:
   - component: {fileID: 1677171890}
   - component: {fileID: 1677171892}
   - component: {fileID: 1677171891}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9259,7 +9252,7 @@ GameObject:
   - component: {fileID: 1721444974}
   - component: {fileID: 1721444976}
   - component: {fileID: 1721444975}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9333,7 +9326,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1737434900}
   - component: {fileID: 1737434901}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_16
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -9393,7 +9386,7 @@ GameObject:
   - component: {fileID: 1766414979}
   - component: {fileID: 1766414978}
   - component: {fileID: 1766414977}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9514,7 +9507,7 @@ GameObject:
   - component: {fileID: 1773134108}
   - component: {fileID: 1773134107}
   - component: {fileID: 1773134106}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9614,7 +9607,7 @@ GameObject:
   - component: {fileID: 1809114415}
   - component: {fileID: 1809114414}
   - component: {fileID: 1809114413}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9714,7 +9707,7 @@ GameObject:
   - component: {fileID: 1844244292}
   - component: {fileID: 1844244291}
   - component: {fileID: 1844244290}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9814,7 +9807,7 @@ GameObject:
   - component: {fileID: 1846862509}
   - component: {fileID: 1846862508}
   - component: {fileID: 1846862507}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9934,7 +9927,7 @@ GameObject:
   - component: {fileID: 1852504744}
   - component: {fileID: 1852504746}
   - component: {fileID: 1852504745}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10009,7 +10002,7 @@ GameObject:
   - component: {fileID: 1920260533}
   - component: {fileID: 1920260535}
   - component: {fileID: 1920260534}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10083,7 +10076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1946477565}
   - component: {fileID: 1946477566}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_21
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -10141,7 +10134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1948454821}
   - component: {fileID: 1948454822}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy_22
   m_TagString: Card
   m_Icon: {fileID: 0}
@@ -10198,7 +10191,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1970552327}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SafeArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10236,7 +10229,7 @@ GameObject:
   - component: {fileID: 2003312129}
   - component: {fileID: 2003312131}
   - component: {fileID: 2003312130}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10312,7 +10305,7 @@ GameObject:
   - component: {fileID: 2013382345}
   - component: {fileID: 2013382344}
   - component: {fileID: 2013382343}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: adsBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10411,7 +10404,7 @@ GameObject:
   - component: {fileID: 2031734429}
   - component: {fileID: 2031734431}
   - component: {fileID: 2031734430}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10585,7 +10578,7 @@ GameObject:
   - component: {fileID: 2071744024}
   - component: {fileID: 2071744023}
   - component: {fileID: 2071744022}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10705,7 +10698,7 @@ GameObject:
   - component: {fileID: 2096679117}
   - component: {fileID: 2096679119}
   - component: {fileID: 2096679118}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: candy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10781,7 +10774,7 @@ GameObject:
   - component: {fileID: 5065832963771324270}
   - component: {fileID: 5065832963771324269}
   - component: {fileID: 5065832963771324268}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10921,7 +10914,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3781464737819784768}
   - component: {fileID: 7076701800852142918}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: btnCandy
   m_TagString: Card
   m_Icon: {fileID: 0}
